@@ -33,3 +33,5 @@ try:
     checked = set(data["checked"])
 except Exception:
     items, checked = {}, set()
+
+def get(url):
