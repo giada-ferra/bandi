@@ -1,372 +1,55 @@
 {
- "https://euraxess.ec.europa.eu/jobs/search?keywords=rehabilitation#main-content": {
-  "title": "Skip to main content",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs": {
-  "title": "Jobs & Opportunities",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search": {
-  "title": "Find Jobs & Opportunities",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/coming-europe": {
-  "title": "Living & Working in Europe",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/living-europe": {
-  "title": "Living in Europe",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/working-europe": {
-  "title": "Working in Europe",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/pensions-for-researchers": {
-  "title": "Retiring in Europe",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/search": {
-  "title": "Country information search",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/career-development": {
-  "title": "Career Development",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/career-development/researchers": {
-  "title": "For Researchers",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/career-development/for-organisations": {
-  "title": "For Organisations",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/frameworks/science4refugees": {
-  "title": "Science4Refugees",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/choose-your-country": {
-  "title": "EURAXESS National Portals",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/global/map": {
-  "title": "EURAXESS Network Map",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/worldwide": {
-  "title": "EURAXESS Worldwide",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/global/euraxess-support-centres": {
-  "title": "EURAXESS Support Centres",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/era-talent-platform": {
-  "title": "ERA Talent Platform",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/hrexcellenceaward": {
-  "title": "HR Excellence in Research",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://ec.europa.eu/era-talent-platform/reico": {
-  "title": "Research Careers Observatory",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/euraxess/innovation-talent-platform": {
-  "title": "Innovation Talent Platform",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?sort%5Bname%5D=created&sort%5Bdirection%5D=DESC": {
-  "title": "Newest offers first",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?sort%5Bname%5D=created&sort%5Bdirection%5D=ASC": {
-  "title": "Oldest offers first",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations/profile/universite-de-poitiers-9": {
-  "title": "Université de Poitiers",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476944": {
-  "title": "Chercheur-e post-doctorant-e junior ou sénior - UFR SFA (27657)",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A374": {
-  "title": "Psychological sciences",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_profile%3A448": {
-  "title": "Recognised Researcher (R2)",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_profile%3A447": {
-  "title": "First Stage Researcher (R1)",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_profile%3A449": {
-  "title": "Established Researcher (R3)",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_is_eu_founded%3A6053": {
-  "title": "Other EU programme",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476945": {
-  "title": "Postdoctoral Researcher in Al and Professional Knowledge in the Medical Profession (1–2 positions)",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A313": {
-  "title": "Medical sciences",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_is_eu_founded%3A555": {
-  "title": "Not funded by a EU programme",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476946": {
-  "title": "Associate Senior Lecturer in Botany, specialising in vascular plant systematics",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A38": {
-  "title": "Biological sciences",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476947": {
-  "title": "Strategic Program Manager - Biomedical Engineering (f/m/x)",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations/profile/erasmus-university-rotterdam-academictransfer": {
-  "title": "Erasmus University Rotterdam via AcademicTransfer",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476948": {
-  "title": "Two-year Postdoc, Department People & Organisations",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A394": {
-  "title": "Societal behaviour",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A396": {
-  "title": "Sociology of enterprise",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations/profile/delft-university-technology-academictransfer": {
-  "title": "Delft University of Technology via AcademicTransfer",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476949": {
-  "title": "PhD Position Sensing Viscosity with Ultrasound",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A182": {
-  "title": "Mechanical engineering",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A185": {
-  "title": "Precision engineering",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations/profile/university-groningen-academictransfer": {
-  "title": "University of Groningen via AcademicTransfer",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476950": {
-  "title": "Postdoc Additive manufacturing of Lightweight Alloys",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A181": {
-  "title": "Materials engineering",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations/profile/academictransfer": {
-  "title": "AcademicTransfer",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476951": {
-  "title": "Postdoc In Human–AI Interaction and Risk-minimizing Digital Design in Gambling",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A174": {
-  "title": "Design engineering",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A375": {
-  "title": "Behavioural sciences",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A78": {
-  "title": "Computer science",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations/profile/university-amsterdam-uva-academictransfer": {
-  "title": "University of Amsterdam (UvA) via AcademicTransfer",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476952": {
-  "title": "Two PhD Positions in AI for Science at the University of Amsterdam",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A195": {
-  "title": "Environmental science",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/476953": {
-  "title": "Student Research Assistant",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A258": {
-  "title": "Juridical sciences",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer": {
-  "title": "Search for Jobs",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Afunding": {
-  "title": "Search for Funding",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ahosting": {
-  "title": "Search for Hosting",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/career-development/organisations": {
-  "title": "For Organisations",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/members/search": {
-  "title": "Search for Researchers",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/partnering/organisations": {
-  "title": "Search for Organisations",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/centres/search": {
-  "title": "EURAXESS Support Centres",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/information/search?f%5B0%5D=information_topic_topic%3A877": {
-  "title": "Visa and Entry Conditions",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/worldwide/australia-nz": {
-  "title": "Australia & New Zealand",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/worldwide/lac": {
-  "title": "Latin America & Caribbean States",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/useful-information/accessibility-statement": {
-  "title": "Accessibility Statement",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/useful-information": {
-  "title": "Legal Information",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/useful-information/privacy-statement": {
-  "title": "Privacy statement",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/euraxess/cookie-policy": {
-  "title": "Cookie Statement",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://commission.europa.eu/index_en": {
-  "title": "European Commission website",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_en": {
-  "title": "Report an IT vulnerability",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://commission.europa.eu/languages-our-websites_en": {
-  "title": "Languages on our websites",
-  "source": "EURAXESS - rehabilitation",
-  "first_seen": "2026-11-03"
- },
- "https://euraxess.ec.europa.eu/jobs/search?keywords=physiotherapy#main-content": {
-  "title": "Skip to main content",
-  "source": "EURAXESS - physiotherapy",
-  "first_seen": "2026-11-03"
- }
+ "items": {},
+ "checked": [
+  "https://euraxess.ec.europa.eu/jobs/478692",
+  "https://euraxess.ec.europa.eu/jobs/478694",
+  "https://euraxess.ec.europa.eu/jobs/478695",
+  "https://euraxess.ec.europa.eu/jobs/478696",
+  "https://euraxess.ec.europa.eu/jobs/478697",
+  "https://euraxess.ec.europa.eu/jobs/478698",
+  "https://euraxess.ec.europa.eu/jobs/478701",
+  "https://euraxess.ec.europa.eu/jobs/478702",
+  "https://euraxess.ec.europa.eu/jobs/478703",
+  "https://euraxess.ec.europa.eu/jobs/478704",
+  "https://euraxess.ec.europa.eu/jobs/478705",
+  "https://euraxess.ec.europa.eu/jobs/478706",
+  "https://euraxess.ec.europa.eu/jobs/478707",
+  "https://euraxess.ec.europa.eu/jobs/478708",
+  "https://euraxess.ec.europa.eu/jobs/478709",
+  "https://euraxess.ec.europa.eu/jobs/478710",
+  "https://euraxess.ec.europa.eu/jobs/478711",
+  "https://euraxess.ec.europa.eu/jobs/478713",
+  "https://euraxess.ec.europa.eu/jobs/478714",
+  "https://euraxess.ec.europa.eu/jobs/478715",
+  "https://euraxess.ec.europa.eu/jobs/478716",
+  "https://euraxess.ec.europa.eu/jobs/478717",
+  "https://euraxess.ec.europa.eu/jobs/478718",
+  "https://euraxess.ec.europa.eu/jobs/478719",
+  "https://euraxess.ec.europa.eu/jobs/478720",
+  "https://euraxess.ec.europa.eu/jobs/478721",
+  "https://euraxess.ec.europa.eu/jobs/478722",
+  "https://euraxess.ec.europa.eu/jobs/478723",
+  "https://euraxess.ec.europa.eu/jobs/478724",
+  "https://euraxess.ec.europa.eu/jobs/478725",
+  "https://euraxess.ec.europa.eu/jobs/478726",
+  "https://euraxess.ec.europa.eu/jobs/478727",
+  "https://euraxess.ec.europa.eu/jobs/478773",
+  "https://euraxess.ec.europa.eu/jobs/478774",
+  "https://euraxess.ec.europa.eu/jobs/478775",
+  "https://euraxess.ec.europa.eu/jobs/478776",
+  "https://euraxess.ec.europa.eu/jobs/478777",
+  "https://euraxess.ec.europa.eu/jobs/478778",
+  "https://euraxess.ec.europa.eu/jobs/478779",
+  "https://euraxess.ec.europa.eu/jobs/478780",
+  "https://euraxess.ec.europa.eu/jobs/478781",
+  "https://euraxess.ec.europa.eu/jobs/478782",
+  "https://euraxess.ec.europa.eu/jobs/478783",
+  "https://euraxess.ec.europa.eu/jobs/478784",
+  "https://euraxess.ec.europa.eu/jobs/478785",
+  "https://euraxess.ec.europa.eu/jobs/478786",
+  "https://euraxess.ec.europa.eu/jobs/478787",
+  "https://euraxess.ec.europa.eu/jobs/478788",
+  "https://euraxess.ec.europa.eu/jobs/478789",
+  "https://euraxess.ec.europa.eu/jobs/478790"
+ ]
 }
