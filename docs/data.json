@@ -1,5 +1,11 @@
 {
- "items": {},
+ "items": {
+  "https://euraxess.ec.europa.eu/jobs/478693": {
+   "title": "Job offer",
+   "source": "EURAXESS - offerte di ricerca",
+   "first_seen": "2026-11-09"
+  }
+ },
  "checked": [
   "https://euraxess.ec.europa.eu/jobs/478692",
   "https://euraxess.ec.europa.eu/jobs/478694",
@@ -18,6 +24,7 @@
   "https://euraxess.ec.europa.eu/jobs/478709",
   "https://euraxess.ec.europa.eu/jobs/478710",
   "https://euraxess.ec.europa.eu/jobs/478711",
+  "https://euraxess.ec.europa.eu/jobs/478712",
   "https://euraxess.ec.europa.eu/jobs/478713",
   "https://euraxess.ec.europa.eu/jobs/478714",
   "https://euraxess.ec.europa.eu/jobs/478715",
@@ -50,6 +57,11 @@
   "https://euraxess.ec.europa.eu/jobs/478787",
   "https://euraxess.ec.europa.eu/jobs/478788",
   "https://euraxess.ec.europa.eu/jobs/478789",
-  "https://euraxess.ec.europa.eu/jobs/478790"
+  "https://euraxess.ec.europa.eu/jobs/478790",
+  "https://euraxess.ec.europa.eu/jobs/478807",
+  "https://euraxess.ec.europa.eu/jobs/478808",
+  "https://euraxess.ec.europa.eu/jobs/478809",
+  "https://euraxess.ec.europa.eu/jobs/478810",
+  "https://euraxess.ec.europa.eu/jobs/478811"
  ]
 }
